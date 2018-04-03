@@ -2,7 +2,7 @@
 <br>
 <br>
 
-
+![LATEX:C=\sum_{v=1}^n(A_v-B_v)^2](http://latex.codecogs.com/gif.latex?C%3D%5Csum_%7Bv%3D1%7D%5En%28A_v-B_v%29%5E2){: style="right"}<br><br>
 
 
 ### <a id="toc_context">Content</a>
@@ -246,7 +246,8 @@ echo
 echo
 ```
 
-[BTC](#toc_context)
+
+[<p align='right'>Back to Content</p>](#toc_context)
 
 ----
 
