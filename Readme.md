@@ -1,7 +1,13 @@
-<br>
+
 ---
-*Latex*
-$\sum^N_i$
+Exmple of **latex equation**
+
+Inline: $`\sum_i^N X_i`$.
+
+
+$$
+\sqrt{x}
+$$
 
 ---
 Example of **mermaid**
