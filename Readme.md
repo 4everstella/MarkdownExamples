@@ -2,16 +2,19 @@
 ---
 *Latex*
 $\sum^N_i$
+
 ---
-*mermaid*
+Example of **mermaid**
+
 ```mermaid
-flowchat TL
+graph TD;
  a
  b
  c
  a ---> b & c
 ```
 
+*TODO: add more features: box/shaps, subgraph, align*
 ---
 <br>
 <br>
